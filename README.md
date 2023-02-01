@@ -70,10 +70,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Gangwar&layout=compact&theme=vision-friendly-dark)
 
 ---
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aayush-Gangwar&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=Aayush-Gangwar&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) -->
 
-### ✍️ Dev Quote
+### ✍️ 🙅
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- ### 😂 Random Dev Meme -->
