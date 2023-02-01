@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.aayush21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gangwar.5@iitj.ac.in) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ayushgangwar4425) [![itch.io](https://img.shields.io/badge/itch.io-%23E4405F.svg?logo=itch.io&logoColor=white)](https://aayush21.itch.io/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.aayush21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gangwar.5@iitj.ac.in) [![GMail](https://img.shields.io/badge/gmail-%23FF0000.svg?logo=Gmail&logoColor=white)](<mailto:ayushgangwar62@gmail.com>) [![itch.io](https://img.shields.io/badge/itch.io-%23E4405F.svg?logo=itch.io&logoColor=white)](https://aayush21.itch.io/)
 
 ### 🛠 &nbsp;Languages and Tools :
 
