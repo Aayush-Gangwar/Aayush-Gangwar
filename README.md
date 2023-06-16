@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.aayush21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-gangwar-401a9a1bb/) [![GMail](https://img.shields.io/badge/gmail-%23FF0000.svg?logo=Gmail&logoColor=white)](<mailto:ayushgangwar62@gmail.com>) [![itch.io](https://img.shields.io/badge/itch.io-%23E4405F.svg?logo=itch.io&logoColor=white)](https://aayush21.itch.io/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-gangwar-401a9a1bb/) [![GMail](https://img.shields.io/badge/gmail-%23FF0000.svg?logo=Gmail&logoColor=white)](<mailto:ayushgangwar62@gmail.com>) [![itch.io](https://img.shields.io/badge/itch.io-%23E4405F.svg?logo=itch.io&logoColor=white)](https://aayush21.itch.io/)
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -73,8 +73,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Aayush-Gangwar&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) -->
 
-### ✍️ 🙅
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ### ✍️ 🙅
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- ### 😂 Random Dev Meme -->
 <!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
