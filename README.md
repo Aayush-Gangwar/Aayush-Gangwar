@@ -67,7 +67,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp; My Github Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aayush-Gangwar&theme=dark&background=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Gangwar&layout=compact&theme=vision-friendly-dark)
 
 ---
 <!-- ## 🏆 GitHub Trophies -->
