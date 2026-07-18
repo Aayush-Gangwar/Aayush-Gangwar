@@ -25,7 +25,7 @@ Distributed Systems • Platform Engineering • Reliability • Operating Syste
 ## GitHub Activity
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="85%">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="70%">
 </p>
 
 > **Note:** Metrics reflect currently accessible GitHub activity. Historical contributions to private repositories may not appear.
