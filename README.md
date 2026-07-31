@@ -22,6 +22,12 @@ Distributed Systems • Platform Engineering • Reliability • Operating Syste
 
 ---
 
+<!-- ## Artcile Writing
+Medium link with text.
+
+---
+-->
+
 ## GitHub Activity
 
 <p align="center">
@@ -50,7 +56,7 @@ I enjoy building software in different forms. One project I keep coming back to 
 ## Let's Connect
 
 <p align="left">
-  💼 <a href="https://www.linkedin.com/in/ayush-gangwar-401a9a1bb/">LinkedIn</a>
+  💼 <a href="https://www.linkedin.com/in/ayush-gangwar21/">LinkedIn</a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   📫 <a href="mailto:ayushgangwar62@gmail.com">Email</a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
