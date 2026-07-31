@@ -22,10 +22,12 @@ Distributed Systems • Platform Engineering • Reliability • Operating Syste
 
 ---
 
-<!-- ## Artcile Writing
-Medium link with text.
+<!--
+## Writing
 
----
+I occasionally write about software engineering, distributed systems, AI infrastructure, and lessons from building production systems.
+
+📝 Medium
 -->
 
 ## GitHub Activity
@@ -61,6 +63,8 @@ I enjoy building software in different forms. One project I keep coming back to 
   📫 <a href="mailto:ayushgangwar62@gmail.com">Email</a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   🌐 <a href="https://aayush-gangwar.github.io/portfolio/">Portfolio</a>
+    <!-- &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  🌐 <a href="https://medium_link/">Medium</a> -->
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   🎮 <a href="https://aayush21.itch.io/">itch.io</a>
 </p>
