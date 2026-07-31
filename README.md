@@ -58,7 +58,7 @@ I enjoy building software in different forms. One project I keep coming back to 
 ## Let's Connect
 
 <p align="left">
-  💼 <a href="https://www.linkedin.com/in/ayush-gangwar21/">LinkedIn</a>
+  💼 <a href="https://www.linkedin.com/in/ayush-gangwar-in/">LinkedIn</a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   📫 <a href="mailto:ayushgangwar62@gmail.com">Email</a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
