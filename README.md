@@ -62,7 +62,7 @@ I enjoy building software in different forms. One project I keep coming back to 
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   📫 <a href="mailto:ayushgangwar62@gmail.com">Email</a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  🌐 <a href="https://aayush-gangwar.github.io/portfolio/">Portfolio</a>
+  🌐 <a href="https://aayush-gangwar.github.io/">Portfolio</a>
     <!-- &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   🌐 <a href="https://medium_link/">Medium</a> -->
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
